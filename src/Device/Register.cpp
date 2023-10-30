@@ -39,6 +39,7 @@
 #include "Device/Driver/ATR833/Register.hpp"
 #include "Device/Driver/XCTracer.hpp"
 #include "Device/Driver/KRT2.hpp"
+#include "Device/Driver/Softrf.hpp"
 #include "util/Macros.hpp"
 #include "util/StringAPI.hxx"
 
